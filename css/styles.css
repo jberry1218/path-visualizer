@@ -1,0 +1,59 @@
+#navbar-image {
+    mix-blend-mode: multiply;
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
+strong {
+    color: #6699cc;
+}
+
+#body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0; 
+    padding: 0; 
+    border: 0;
+}
+
+#grid-container {
+    margin-top: 20px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.grid-row {
+    width: auto;
+    height: 20px;
+}
+
+.grid-button-div {
+    display: inline-block;
+}
+
+.grid-button {
+    margin: 0;
+    padding: 0;
+    border: thin solid grey;
+    background-color: white;
+    font-size: 16px;
+    color: grey;
+    width: 20px;
+    height: 20px;
+    vertical-align: top;
+    line-height: 5px;
+    display: inline-block;
+}
+
+.grid-button:focus {
+    outline: 0;
+}
+
+#alert-head {
+    color: #6699cc;
+    font-weight: bold;
+}
