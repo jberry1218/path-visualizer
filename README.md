@@ -1,6 +1,6 @@
-# Shortest Path Visualizer
+# Path Visualizer
 ## Description
-Shortest Path Visualizer provides a visual representation of how different path algorithms traverse a graph in order to find a path from a start node to an end node.
+Path Visualizer provides a visual representation of how different path algorithms traverse a graph in order to find a path from a start node to an end node.
 ## How to Use
 The user is provided with tools to add start, end, and wall nodes to the grid as well as add weights to the nodes. When the user has finished setting up the grid, they can select a path algorithm and run the algorithm. The grid will display all of the nodes the algorithm visited in the order they were visited. The grid will then display the path found by the algorithm. Upon completion, a summary of the algorithm's findings appear above the grid.
 ## Tools
